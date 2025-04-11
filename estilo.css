@@ -108,7 +108,7 @@
   
   /* Seção Hero */
   .hero {
-    background: url("img/hero-bg.jpg") no-repeat center center/cover;
+    background: url("./imagens/artificial.png") no-repeat center center/cover;
     height: 70vh;
     display: flex;
     align-items: center;
